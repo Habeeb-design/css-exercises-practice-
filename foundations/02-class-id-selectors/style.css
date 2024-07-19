@@ -1,0 +1,17 @@
+
+.odd-elements {
+background-color:pink; 
+font-family: verdana, "DejaVu Sans", sans-serif;
+font-size: 24px;
+}
+
+#ID {
+    color: blue;
+    font-size: 36px;
+}
+
+#ID-2 { 
+    background-color: rgb(11, 255, 11);
+    font-size: 24px;
+    font-weight: bold;
+}
